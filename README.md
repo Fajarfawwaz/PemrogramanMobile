@@ -7,6 +7,7 @@
 
 ## JADWAL ClickUp / Timelane    
 Link ClickUp :[ Timeline | project uts | Fajar Fawwaz Atallah (Timeline)   ](https://app.clickup.com/90181768471/v/g/2kzm158q-638)
+
 Link Github : https://github.com/Fajarfawwaz/PemrogramanMobile.git  
 
 <img width="1036" height="588" alt="image" src="https://github.com/user-attachments/assets/c709cef1-911d-471f-bbd6-7a4ff32dbe93" />
